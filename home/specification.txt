@@ -1,0 +1,26 @@
+HTML Tags:
+<meta>
+<link>
+<nav>
+<div></div>
+<ul></ul>
+<li></li>
+<a></a>
+<script></script>
+<section></section>
+<p></p>
+<img>
+<span></span>
+<h2></h2>
+
+CSS Properties:
+position
+background-color
+width
+height
+color
+font-size
+padding
+display
+
+I use javascript for site's navigation and bootstrap for project page.
